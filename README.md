@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# react-leaflet-googledocs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A SPA using react, typescript and leaflet to create an interactive map with a search box, using Google Docs as a backend
+
+This project has been bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -39,6 +41,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Thanks and acknowledgements
+Huge props to [@pavel-ilin](https://github.com/pavel-ilin), [@kbk0125](https://github.com/kbk0125) and [@hanneolsen](https://github.com/hanneolsen) for the inspiration.
+
+You can find their articles [here](https://betterprogramming.pub/google-spreadsheet-as-a-backend-b6b51541f1e1), [here](https://medium.com/@kevink/build-a-complete-back-end-in-20-minutes-with-google-sheets-a-hack-for-beginners-404c8e728e3) and [here](https://react.christmas/2020/13).
+
+Also thanks to [@AxelleDRouge](https://github.com/AxelleDRouge) for the detailed [article](https://dev.to/axelledrouge/how-to-create-the-base-of-a-map-with-reactjs-leaflet-and-typescript-268m) on React leaflet.
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
