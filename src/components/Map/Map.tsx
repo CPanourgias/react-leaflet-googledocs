@@ -2,7 +2,7 @@ import React from 'react';
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 import './Map.css'
 
-const Map = () => {
+const Map = (): JSX.Element => {
   return (
     <MapContainer center={[51.505, -0.09]} zoom={13} scrollWheelZoom={false}>
       <TileLayer
